@@ -1,0 +1,552 @@
+Scenario 1: Ogre sucked your brains out in 18 move(s) at path.
+Scenario 2: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 3: Ogre sucked your brains out in 4 move(s) at path.
+Scenario 4: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 5: Ogre sucked your brains out in 6 move(s) at path.
+Scenario 6: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 7: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 8: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 9: Ogre sucked your brains out in 3 move(s) at path.
+Scenario 10: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 11: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 12: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 13: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 14: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 15: Ogre sucked your brains out in 5 move(s) at path.
+Scenario 16: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 17: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 18: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 19: Ogre sucked your brains out in 3 move(s) at path.
+Scenario 20: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 21: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 22: Ogre sucked your brains out in 1 move(s) at path.
+Scenario 23: Ogre sucked your brains out in 4 move(s) at path.
+Scenario 24: Treasure found in 1 move(s) at path.
+Scenario 25: Ogre sucked your brains out in 2 move(s) at fork.
+Scenario 26: Ogre sucked your brains out in 7 move(s) at fork.
+Scenario 27: Ogre sucked your brains out in 6 move(s) at fork.
+Scenario 28: Ogre sucked your brains out in 4 move(s) at fork.
+Scenario 29: Ogre sucked your brains out in 5 move(s) at fork.
+Scenario 30: Ogre sucked your brains out in 9 move(s) at fork.
+Scenario 31: Ogre sucked your brains out in 4 move(s) at fork.
+Scenario 32: Ogre sucked your brains out in 5 move(s) at fork.
+Scenario 33: Ogre sucked your brains out in 2 move(s) at fork.
+Scenario 34: Ogre sucked your brains out in 4 move(s) at fork.
+Scenario 35: Ogre sucked your brains out in 5 move(s) at fork.
+Scenario 36: Ogre sucked your brains out in 2 move(s) at fork.
+Scenario 37: Ogre sucked your brains out in 2 move(s) at fork.
+Scenario 38: Ogre sucked your brains out in 27 move(s) at fork.
+Scenario 39: Ogre sucked your brains out in 5 move(s) at fork.
+Scenario 40: Ogre sucked your brains out in 7 move(s) at fork.
+Scenario 41: Ogre sucked your brains out in 2 move(s) at fork.
+Scenario 42: Ogre sucked your brains out in 4 move(s) at fork.
+Scenario 43: Ogre sucked your brains out in 2 move(s) at fork.
+Scenario 44: Ogre sucked your brains out in 2 move(s) at fork.
+Scenario 45: Ogre sucked your brains out in 6 move(s) at fork.
+Scenario 46: Ogre sucked your brains out in 2 move(s) at fork.
+Scenario 47: Treasure found in 3 move(s) at path.
+Scenario 48: Treasure found in 2 move(s) at fork.
+Scenario 49: Fell off cliff in 2 move(s).
+Scenario 50: Ogre sucked your brains out in 9 move(s) at mountaintop
+Scenario 51: Treasure found in 7 move(s) at maze 2.
+Scenario 52: Ogre sucked your brains out in 4 move(s) at mountaintop
+Scenario 53: Ogre sucked your brains out in 4 move(s) at mountaintop
+Scenario 54: Ogre sucked your brains out in 17 move(s) at mountaintop
+Scenario 55: Treasure found in 8 move(s) at labyrinth 1.
+Scenario 56: Ogre sucked your brains out in 4 move(s) at mountaintop
+Scenario 57: Ogre sucked your brains out in 30 move(s) at mountaintop
+Scenario 58: Ogre sucked your brains out in 6 move(s) at mountaintop
+Scenario 59: Ogre sucked your brains out in 5 move(s) at mountaintop
+Scenario 60: Treasure found in 33 move(s) at labyrinth 6.
+Scenario 61: Ogre sucked your brains out in 7 move(s) at mountaintop
+Scenario 62: Ogre sucked your brains out in 32 move(s) at mountaintop
+Scenario 63: Treasure found in 12 move(s) at labyrinth 9.
+Scenario 64: Ogre sucked your brains out in 30 move(s) at mountaintop
+Scenario 65: Ogre sucked your brains out in 6 move(s) at mountaintop
+Scenario 66: Ogre sucked your brains out in 5 move(s) at mountaintop
+Scenario 67: Treasure found in 84 move(s) at labyrinth 13.
+Scenario 68: Ogre sucked your brains out in 30 move(s) at mountaintop
+Scenario 69: Ogre sucked your brains out in 6 move(s) at mountaintop
+Scenario 70: Treasure found in 3 move(s) at path.
+Scenario 71: Fell off cliff in 2 move(s).
+Scenario 72: Treasure found in 97 move(s) at mountaintop
+Scenario 73: Ogre sucked your brains out in 129 move(s) at maze 0
+Scenario 74: Ogre sucked your brains out in 125 move(s) at maze 0
+Scenario 75: Ogre sucked your brains out in 125 move(s) at maze 0
+Scenario 76: Ogre sucked your brains out in 125 move(s) at maze 0
+Scenario 77: Treasure found in 35 move(s) at labyrinth 0.
+Scenario 78: Treasure found in 6 move(s) at labyrinth 1.
+Scenario 79: Treasure found in 9 move(s) at labyrinth 2.
+Scenario 80: Ogre sucked your brains out in 7 move(s) at maze 0
+Scenario 81: Ogre sucked your brains out in 9 move(s) at maze 0
+Scenario 82: Ogre sucked your brains out in 3 move(s) at maze 0
+Scenario 83: Ogre sucked your brains out in 99 move(s) at maze 0
+Scenario 84: Treasure found in 20 move(s) at labyrinth 7.
+Scenario 85: Ogre sucked your brains out in 6 move(s) at maze 0
+Scenario 86: Treasure found in 30 move(s) at labyrinth 9.
+Scenario 87: Ogre sucked your brains out in 35 move(s) at maze 0
+Scenario 88: Treasure found in 75 move(s) at labyrinth 11.
+Scenario 89: Ogre sucked your brains out in 9 move(s) at maze 0
+Scenario 90: Treasure found in 37 move(s) at labyrinth 13.
+Scenario 91: Treasure found in 113 move(s) at labyrinth 14.
+Scenario 92: Treasure found in 126 move(s) at labyrinth 15.
+Scenario 93: Treasure found in 23 move(s) at path.
+Scenario 94: Fell off cliff in 2 move(s).
+Scenario 95: Treasure found in 5 move(s) at mountaintop
+Scenario 96: Treasure found in 101 move(s) at maze 0
+Scenario 97: Ogre sucked your brains out in 126 move(s) at maze 1.
+Scenario 98: Ogre sucked your brains out in 125 move(s) at maze 1.
+Scenario 99: Ogre sucked your brains out in 125 move(s) at maze 1.
+Scenario 100: Treasure found in 34 move(s) at labyrinth 0.
+Scenario 101: Treasure found in 6 move(s) at labyrinth 1.
+Scenario 102: Treasure found in 9 move(s) at labyrinth 2.
+Scenario 103: Ogre sucked your brains out in 16 move(s) at maze 1.
+Scenario 104: Ogre sucked your brains out in 4 move(s) at maze 1.
+Scenario 105: Ogre sucked your brains out in 99 move(s) at maze 1.
+Scenario 106: Ogre sucked your brains out in 60 move(s) at maze 1.
+Scenario 107: Ogre sucked your brains out in 21 move(s) at maze 1.
+Scenario 108: Treasure found in 63 move(s) at labyrinth 8.
+Scenario 109: Ogre sucked your brains out in 7 move(s) at maze 1.
+Scenario 110: Treasure found in 24 move(s) at labyrinth 10.
+Scenario 111: Treasure found in 30 move(s) at labyrinth 11.
+Scenario 112: Treasure found in 82 move(s) at labyrinth 12.
+Scenario 113: Ogre sucked your brains out in 12 move(s) at maze 1.
+Scenario 114: Treasure found in 38 move(s) at labyrinth 14.
+Scenario 115: Treasure found in 113 move(s) at labyrinth 15.
+Scenario 116: Treasure found in 23 move(s) at path.
+Scenario 117: Fell off cliff in 2 move(s).
+Scenario 118: Treasure found in 5 move(s) at mountaintop
+Scenario 119: Treasure found in 101 move(s) at maze 0
+Scenario 120: Treasure found in 126 move(s) at maze 1.
+Scenario 121: Treasure found in 129 move(s) at maze 3.
+Scenario 122: Ogre sucked your brains out in 182 move(s) at maze 2.
+Scenario 123: Ogre sucked your brains out in 9 move(s) at maze 2.
+Scenario 124: Treasure found in 22 move(s) at labyrinth 1.
+Scenario 125: Treasure found in 12 move(s) at labyrinth 2.
+Scenario 126: Ogre sucked your brains out in 25 move(s) at maze 2.
+Scenario 127: Treasure found in 50 move(s) at labyrinth 4.
+Scenario 128: Ogre sucked your brains out in 39 move(s) at maze 2.
+Scenario 129: Ogre sucked your brains out in 42 move(s) at maze 2.
+Scenario 130: Treasure found in 51 move(s) at labyrinth 7.
+Scenario 131: Ogre sucked your brains out in 9 move(s) at maze 2.
+Scenario 132: Treasure found in 28 move(s) at labyrinth 9.
+Scenario 133: Ogre sucked your brains out in 37 move(s) at maze 2.
+Scenario 134: Treasure found in 73 move(s) at labyrinth 11.
+Scenario 135: Ogre sucked your brains out in 36 move(s) at maze 2.
+Scenario 136: Treasure found in 113 move(s) at labyrinth 13.
+Scenario 137: Ogre sucked your brains out in 22 move(s) at maze 2.
+Scenario 138: Treasure found in 114 move(s) at labyrinth 15.
+Scenario 139: Treasure found in 23 move(s) at path.
+Scenario 140: Fell off cliff in 2 move(s).
+Scenario 141: Treasure found in 5 move(s) at mountaintop
+Scenario 142: Treasure found in 101 move(s) at maze 0
+Scenario 143: Treasure found in 126 move(s) at maze 1.
+Scenario 144: Ogre sucked your brains out in 129 move(s) at maze 3.
+Scenario 145: Ogre sucked your brains out in 125 move(s) at maze 3.
+Scenario 146: Treasure found in 30 move(s) at labyrinth 0.
+Scenario 147: Treasure found in 6 move(s) at labyrinth 1.
+Scenario 148: Treasure found in 9 move(s) at labyrinth 2.
+Scenario 149: Ogre sucked your brains out in 12 move(s) at maze 3.
+Scenario 150: Ogre sucked your brains out in 13 move(s) at maze 3.
+Scenario 151: Ogre sucked your brains out in 112 move(s) at maze 3.
+Scenario 152: Ogre sucked your brains out in 13 move(s) at maze 3.
+Scenario 153: Treasure found in 62 move(s) at labyrinth 7.
+Scenario 154: Treasure found in 51 move(s) at labyrinth 8.
+Scenario 155: Ogre sucked your brains out in 12 move(s) at maze 3.
+Scenario 156: Treasure found in 19 move(s) at labyrinth 10.
+Scenario 157: Treasure found in 30 move(s) at labyrinth 11.
+Scenario 158: Treasure found in 82 move(s) at labyrinth 12.
+Scenario 159: Ogre sucked your brains out in 4 move(s) at maze 3.
+Scenario 160: Ogre sucked your brains out in 9 move(s) at maze 3.
+Scenario 161: Treasure found in 38 move(s) at labyrinth 15.
+Scenario 162: Treasure found in 10 move(s) at path.
+Scenario 163: Fell off cliff in 2 move(s).
+Scenario 164: Treasure found in 5 move(s) at mountaintop
+Scenario 165: Treasure found in 101 move(s) at maze 0
+Scenario 166: Treasure found in 126 move(s) at maze 1.
+Scenario 167: Treasure found in 186 move(s) at maze 2.
+Scenario 168: Treasure found in 13 move(s) at maze 3.
+Scenario 169: Treasure found in 16 move(s) at labyrinth 0.
+Scenario 170: Fell off cliff in 2 move(s).
+Scenario 171: Treasure found in 12 move(s) at labyrinth 2.
+Scenario 172: Treasure found in 63 move(s) at labyrinth 3.
+Scenario 173: Ogre sucked your brains out in 177 move(s) at maze 4.
+Scenario 174: Fell off cliff in 2 move(s).
+Scenario 175: Treasure found in 85 move(s) at labyrinth 6.
+Scenario 176: Ogre sucked your brains out in 38 move(s) at maze 4.
+Scenario 177: Fell off cliff in 2 move(s).
+Scenario 178: Treasure found in 11 move(s) at labyrinth 9.
+Scenario 179: Treasure found in 82 move(s) at labyrinth 10.
+Scenario 180: Ogre sucked your brains out in 30 move(s) at maze 4.
+Scenario 181: Fell off cliff in 2 move(s).
+Scenario 182: Treasure found in 33 move(s) at labyrinth 13.
+Scenario 183: Treasure found in 113 move(s) at labyrinth 14.
+Scenario 184: Treasure found in 126 move(s) at labyrinth 15.
+Scenario 185: Treasure found in 23 move(s) at path.
+Scenario 186: Fell off cliff in 2 move(s).
+Scenario 187: Treasure found in 5 move(s) at mountaintop
+Scenario 188: Ogre sucked your brains out in 7 move(s) at labyrinth 0.
+Scenario 189: Fell off cliff in 2 move(s).
+Scenario 190: Ogre sucked your brains out in 4 move(s) at labyrinth 0.
+Scenario 191: Ogre sucked your brains out in 3 move(s) at labyrinth 0.
+Scenario 192: Ogre sucked your brains out in 7 move(s) at labyrinth 0.
+Scenario 193: Fell off cliff in 2 move(s).
+Scenario 194: Ogre sucked your brains out in 4 move(s) at labyrinth 0.
+Scenario 195: Fell off cliff in 2 move(s).
+Scenario 196: Ogre sucked your brains out in 5 move(s) at labyrinth 0.
+Scenario 197: Fell off cliff in 2 move(s).
+Scenario 198: Ogre sucked your brains out in 38 move(s) at labyrinth 0.
+Scenario 199: Ogre sucked your brains out in 3 move(s) at labyrinth 0.
+Scenario 200: Ogre sucked your brains out in 57 move(s) at labyrinth 0.
+Scenario 201: Ogre sucked your brains out in 3 move(s) at labyrinth 0.
+Scenario 202: Ogre sucked your brains out in 62 move(s) at labyrinth 0.
+Scenario 203: Ogre sucked your brains out in 3 move(s) at labyrinth 0.
+Scenario 204: Ogre sucked your brains out in 57 move(s) at labyrinth 0.
+Scenario 205: Ogre sucked your brains out in 3 move(s) at labyrinth 0.
+Scenario 206: Ogre sucked your brains out in 62 move(s) at labyrinth 0.
+Scenario 207: Ogre sucked your brains out in 3 move(s) at labyrinth 0.
+Scenario 208: Treasure found in 3 move(s) at path.
+Scenario 209: Fell off cliff in 2 move(s).
+Scenario 210: Treasure found in 30 move(s) at mountaintop
+Scenario 211: Ogre sucked your brains out in 28 move(s) at labyrinth 1.
+Scenario 212: Ogre sucked your brains out in 8 move(s) at labyrinth 1.
+Scenario 213: Treasure found in 22 move(s) at maze 2.
+Scenario 214: Ogre sucked your brains out in 22 move(s) at labyrinth 1.
+Scenario 215: Ogre sucked your brains out in 11 move(s) at labyrinth 1.
+Scenario 216: Treasure found in 56 move(s) at labyrinth 0.
+Scenario 217: Ogre sucked your brains out in 6 move(s) at labyrinth 1.
+Scenario 218: Ogre sucked your brains out in 8 move(s) at labyrinth 1.
+Scenario 219: Ogre sucked your brains out in 55 move(s) at labyrinth 1.
+Scenario 220: Ogre sucked your brains out in 62 move(s) at labyrinth 1.
+Scenario 221: Ogre sucked your brains out in 8 move(s) at labyrinth 1.
+Scenario 222: Ogre sucked your brains out in 55 move(s) at labyrinth 1.
+Scenario 223: Ogre sucked your brains out in 62 move(s) at labyrinth 1.
+Scenario 224: Ogre sucked your brains out in 8 move(s) at labyrinth 1.
+Scenario 225: Ogre sucked your brains out in 55 move(s) at labyrinth 1.
+Scenario 226: Ogre sucked your brains out in 62 move(s) at labyrinth 1.
+Scenario 227: Ogre sucked your brains out in 8 move(s) at labyrinth 1.
+Scenario 228: Ogre sucked your brains out in 55 move(s) at labyrinth 1.
+Scenario 229: Ogre sucked your brains out in 62 move(s) at labyrinth 1.
+Scenario 230: Ogre sucked your brains out in 8 move(s) at labyrinth 1.
+Scenario 231: Treasure found in 2 move(s) at path.
+Scenario 232: Treasure found in 2 move(s) at fork.
+Scenario 233: Fell off cliff in 2 move(s).
+Scenario 234: Treasure found in 11 move(s) at maze 0
+Scenario 235: Treasure found in 4 move(s) at maze 1.
+Scenario 236: Treasure found in 110 move(s) at maze 2.
+Scenario 237: Treasure found in 16 move(s) at maze 3.
+Scenario 238: Treasure found in 149 move(s) at maze 4.
+Scenario 239: Fell off cliff in 2 move(s).
+Scenario 240: Treasure found in 7 move(s) at labyrinth 1.
+Scenario 241: Ogre sucked your brains out in 63 move(s) at labyrinth 2.
+Scenario 242: Ogre sucked your brains out in 8 move(s) at labyrinth 2.
+Scenario 243: Ogre sucked your brains out in 55 move(s) at labyrinth 2.
+Scenario 244: Ogre sucked your brains out in 62 move(s) at labyrinth 2.
+Scenario 245: Ogre sucked your brains out in 8 move(s) at labyrinth 2.
+Scenario 246: Ogre sucked your brains out in 55 move(s) at labyrinth 2.
+Scenario 247: Ogre sucked your brains out in 62 move(s) at labyrinth 2.
+Scenario 248: Ogre sucked your brains out in 8 move(s) at labyrinth 2.
+Scenario 249: Ogre sucked your brains out in 55 move(s) at labyrinth 2.
+Scenario 250: Ogre sucked your brains out in 62 move(s) at labyrinth 2.
+Scenario 251: Ogre sucked your brains out in 8 move(s) at labyrinth 2.
+Scenario 252: Ogre sucked your brains out in 55 move(s) at labyrinth 2.
+Scenario 253: Ogre sucked your brains out in 62 move(s) at labyrinth 2.
+Scenario 254: Treasure found in 3 move(s) at path.
+Scenario 255: Treasure found in 2 move(s) at fork.
+Scenario 256: Fell off cliff in 2 move(s).
+Scenario 257: Treasure found in 8 move(s) at maze 0
+Scenario 258: Treasure found in 12 move(s) at maze 1.
+Scenario 259: Treasure found in 111 move(s) at maze 2.
+Scenario 260: Treasure found in 16 move(s) at maze 3.
+Scenario 261: Treasure found in 149 move(s) at maze 4.
+Scenario 262: Fell off cliff in 2 move(s).
+Scenario 263: Treasure found in 7 move(s) at labyrinth 1.
+Scenario 264: Treasure found in 63 move(s) at labyrinth 2.
+Scenario 265: Ogre sucked your brains out in 251 move(s) at labyrinth 3.
+Scenario 266: Ogre sucked your brains out in 250 move(s) at labyrinth 3.
+Scenario 267: Ogre sucked your brains out in 250 move(s) at labyrinth 3.
+Scenario 268: Treasure found in 20 move(s) at labyrinth 7.
+Scenario 269: Treasure found in 46 move(s) at labyrinth 8.
+Scenario 270: Ogre sucked your brains out in 59 move(s) at labyrinth 3.
+Scenario 271: Treasure found in 13 move(s) at labyrinth 10.
+Scenario 272: Treasure found in 68 move(s) at labyrinth 11.
+Scenario 273: Ogre sucked your brains out in 44 move(s) at labyrinth 3.
+Scenario 274: Treasure found in 28 move(s) at labyrinth 13.
+Scenario 275: Treasure found in 88 move(s) at labyrinth 14.
+Scenario 276: Ogre sucked your brains out in 9 move(s) at labyrinth 3.
+Scenario 277: Treasure found in 2 move(s) at path.
+Scenario 278: Treasure found in 2 move(s) at fork.
+Scenario 279: Fell off cliff in 2 move(s).
+Scenario 280: Treasure found in 8 move(s) at maze 0
+Scenario 281: Treasure found in 12 move(s) at maze 1.
+Scenario 282: Treasure found in 111 move(s) at maze 2.
+Scenario 283: Treasure found in 16 move(s) at maze 3.
+Scenario 284: Treasure found in 149 move(s) at maze 4.
+Scenario 285: Fell off cliff in 2 move(s).
+Scenario 286: Treasure found in 7 move(s) at labyrinth 1.
+Scenario 287: Treasure found in 63 move(s) at labyrinth 2.
+Scenario 288: Treasure found in 251 move(s) at labyrinth 3.
+Scenario 289: Ogre sucked your brains out in 262 move(s) at labyrinth 4.
+Scenario 290: Ogre sucked your brains out in 125 move(s) at labyrinth 4.
+Scenario 291: Treasure found in 63 move(s) at labyrinth 7.
+Scenario 292: Ogre sucked your brains out in 62 move(s) at labyrinth 4.
+Scenario 293: Treasure found in 53 move(s) at labyrinth 9.
+Scenario 294: Ogre sucked your brains out in 72 move(s) at labyrinth 4.
+Scenario 295: Treasure found in 69 move(s) at labyrinth 11.
+Scenario 296: Ogre sucked your brains out in 56 move(s) at labyrinth 4.
+Scenario 297: Treasure found in 75 move(s) at labyrinth 13.
+Scenario 298: Ogre sucked your brains out in 50 move(s) at labyrinth 4.
+Scenario 299: Treasure found in 7 move(s) at labyrinth 15.
+Scenario 300: Treasure found in 5 move(s) at path.
+Scenario 301: Fell off cliff in 2 move(s).
+Scenario 302: Treasure found in 6 move(s) at mountaintop
+Scenario 303: Treasure found in 93 move(s) at maze 0
+Scenario 304: Treasure found in 61 move(s) at maze 1.
+Scenario 305: Treasure found in 26 move(s) at maze 2.
+Scenario 306: Ogre sucked your brains out in 51 move(s) at labyrinth 5.
+Scenario 307: Treasure found in 39 move(s) at maze 4.
+Scenario 308: Fell off cliff in 2 move(s).
+Scenario 309: Treasure found in 7 move(s) at labyrinth 1.
+Scenario 310: Treasure found in 63 move(s) at labyrinth 2.
+Scenario 311: Treasure found in 251 move(s) at labyrinth 3.
+Scenario 312: Treasure found in 262 move(s) at labyrinth 4.
+Scenario 313: Ogre sucked your brains out in 126 move(s) at labyrinth 5.
+Scenario 314: Treasure found in 62 move(s) at labyrinth 7.
+Scenario 315: Ogre sucked your brains out in 63 move(s) at labyrinth 5.
+Scenario 316: Treasure found in 52 move(s) at labyrinth 9.
+Scenario 317: Ogre sucked your brains out in 73 move(s) at labyrinth 5.
+Scenario 318: Treasure found in 68 move(s) at labyrinth 11.
+Scenario 319: Ogre sucked your brains out in 57 move(s) at labyrinth 5.
+Scenario 320: Treasure found in 74 move(s) at labyrinth 13.
+Scenario 321: Ogre sucked your brains out in 51 move(s) at labyrinth 5.
+Scenario 322: Treasure found in 6 move(s) at labyrinth 15.
+Scenario 323: Treasure found in 5 move(s) at path.
+Scenario 324: Fell off cliff in 2 move(s).
+Scenario 325: Treasure found in 6 move(s) at mountaintop
+Scenario 326: Treasure found in 93 move(s) at maze 0
+Scenario 327: Treasure found in 61 move(s) at maze 1.
+Scenario 328: Treasure found in 26 move(s) at maze 2.
+Scenario 329: Ogre sucked your brains out in 52 move(s) at labyrinth 6.
+Scenario 330: Treasure found in 38 move(s) at maze 4.
+Scenario 331: Fell off cliff in 2 move(s).
+Scenario 332: Treasure found in 7 move(s) at labyrinth 1.
+Scenario 333: Treasure found in 63 move(s) at labyrinth 2.
+Scenario 334: Treasure found in 251 move(s) at labyrinth 3.
+Scenario 335: Treasure found in 262 move(s) at labyrinth 4.
+Scenario 336: Treasure found in 126 move(s) at labyrinth 5.
+Scenario 337: Treasure found in 62 move(s) at labyrinth 7.
+Scenario 338: Ogre sucked your brains out in 64 move(s) at labyrinth 6.
+Scenario 339: Treasure found in 51 move(s) at labyrinth 9.
+Scenario 340: Ogre sucked your brains out in 74 move(s) at labyrinth 6.
+Scenario 341: Treasure found in 67 move(s) at labyrinth 11.
+Scenario 342: Ogre sucked your brains out in 58 move(s) at labyrinth 6.
+Scenario 343: Treasure found in 73 move(s) at labyrinth 13.
+Scenario 344: Ogre sucked your brains out in 52 move(s) at labyrinth 6.
+Scenario 345: Treasure found in 5 move(s) at labyrinth 15.
+Scenario 346: Treasure found in 5 move(s) at path.
+Scenario 347: Fell off cliff in 2 move(s).
+Scenario 348: Treasure found in 6 move(s) at mountaintop
+Scenario 349: Ogre sucked your brains out in 62 move(s) at labyrinth 7.
+Scenario 350: Ogre sucked your brains out in 50 move(s) at labyrinth 7.
+Scenario 351: Treasure found in 9 move(s) at maze 2.
+Scenario 352: Ogre sucked your brains out in 66 move(s) at labyrinth 7.
+Scenario 353: Ogre sucked your brains out in 50 move(s) at labyrinth 7.
+Scenario 354: Treasure found in 38 move(s) at labyrinth 0.
+Scenario 355: Treasure found in 4 move(s) at labyrinth 1.
+Scenario 356: Treasure found in 63 move(s) at labyrinth 2.
+Scenario 357: Ogre sucked your brains out in 21 move(s) at labyrinth 7.
+Scenario 358: Ogre sucked your brains out in 55 move(s) at labyrinth 7.
+Scenario 359: Treasure found in 63 move(s) at labyrinth 5.
+Scenario 360: Ogre sucked your brains out in 62 move(s) at labyrinth 7.
+Scenario 361: Ogre sucked your brains out in 69 move(s) at labyrinth 7.
+Scenario 362: Treasure found in 46 move(s) at labyrinth 9.
+Scenario 363: Ogre sucked your brains out in 79 move(s) at labyrinth 7.
+Scenario 364: Ogre sucked your brains out in 56 move(s) at labyrinth 7.
+Scenario 365: Ogre sucked your brains out in 69 move(s) at labyrinth 7.
+Scenario 366: Ogre sucked your brains out in 56 move(s) at labyrinth 7.
+Scenario 367: Ogre sucked your brains out in 69 move(s) at labyrinth 7.
+Scenario 368: Ogre sucked your brains out in 56 move(s) at labyrinth 7.
+Scenario 369: Treasure found in 24 move(s) at path.
+Scenario 370: Fell off cliff in 2 move(s).
+Scenario 371: Treasure found in 5 move(s) at mountaintop
+Scenario 372: Ogre sucked your brains out in 39 move(s) at labyrinth 8.
+Scenario 373: Treasure found in 7 move(s) at maze 1.
+Scenario 374: Ogre sucked your brains out in 38 move(s) at labyrinth 8.
+Scenario 375: Treasure found in 12 move(s) at maze 3.
+Scenario 376: Ogre sucked your brains out in 68 move(s) at labyrinth 8.
+Scenario 377: Treasure found in 37 move(s) at labyrinth 0.
+Scenario 378: Treasure found in 4 move(s) at labyrinth 1.
+Scenario 379: Treasure found in 63 move(s) at labyrinth 2.
+Scenario 380: Ogre sucked your brains out in 20 move(s) at labyrinth 8.
+Scenario 381: Ogre sucked your brains out in 47 move(s) at labyrinth 8.
+Scenario 382: Treasure found in 72 move(s) at labyrinth 5.
+Scenario 383: Ogre sucked your brains out in 53 move(s) at labyrinth 8.
+Scenario 384: Treasure found in 78 move(s) at labyrinth 7.
+Scenario 385: Treasure found in 46 move(s) at labyrinth 9.
+Scenario 386: Ogre sucked your brains out in 80 move(s) at labyrinth 8.
+Scenario 387: Ogre sucked your brains out in 46 move(s) at labyrinth 8.
+Scenario 388: Ogre sucked your brains out in 79 move(s) at labyrinth 8.
+Scenario 389: Ogre sucked your brains out in 46 move(s) at labyrinth 8.
+Scenario 390: Ogre sucked your brains out in 79 move(s) at labyrinth 8.
+Scenario 391: Ogre sucked your brains out in 46 move(s) at labyrinth 8.
+Scenario 392: Treasure found in 2 move(s) at path.
+Scenario 393: Treasure found in 2 move(s) at fork.
+Scenario 394: Treasure found in 25 move(s) at mountaintop
+Scenario 395: Ogre sucked your brains out in 51 move(s) at labyrinth 9.
+Scenario 396: Treasure found in 6 move(s) at maze 1.
+Scenario 397: Ogre sucked your brains out in 29 move(s) at labyrinth 9.
+Scenario 398: Ogre sucked your brains out in 9 move(s) at labyrinth 9.
+Scenario 399: Ogre sucked your brains out in 81 move(s) at labyrinth 9.
+Scenario 400: Treasure found in 36 move(s) at labyrinth 0.
+Scenario 401: Treasure found in 4 move(s) at labyrinth 1.
+Scenario 402: Treasure found in 63 move(s) at labyrinth 2.
+Scenario 403: Ogre sucked your brains out in 13 move(s) at labyrinth 9.
+Scenario 404: Ogre sucked your brains out in 53 move(s) at labyrinth 9.
+Scenario 405: Treasure found in 73 move(s) at labyrinth 5.
+Scenario 406: Ogre sucked your brains out in 52 move(s) at labyrinth 9.
+Scenario 407: Treasure found in 79 move(s) at labyrinth 7.
+Scenario 408: Ogre sucked your brains out in 46 move(s) at labyrinth 9.
+Scenario 409: Ogre sucked your brains out in 81 move(s) at labyrinth 9.
+Scenario 410: Ogre sucked your brains out in 44 move(s) at labyrinth 9.
+Scenario 411: Ogre sucked your brains out in 81 move(s) at labyrinth 9.
+Scenario 412: Ogre sucked your brains out in 44 move(s) at labyrinth 9.
+Scenario 413: Ogre sucked your brains out in 81 move(s) at labyrinth 9.
+Scenario 414: Ogre sucked your brains out in 44 move(s) at labyrinth 9.
+Scenario 415: Treasure found in 3 move(s) at path.
+Scenario 416: Treasure found in 2 move(s) at fork.
+Scenario 417: Treasure found in 25 move(s) at mountaintop
+Scenario 418: Ogre sucked your brains out in 52 move(s) at labyrinth 10.
+Scenario 419: Treasure found in 5 move(s) at maze 1.
+Scenario 420: Ogre sucked your brains out in 24 move(s) at labyrinth 10.
+Scenario 421: Ogre sucked your brains out in 96 move(s) at labyrinth 10.
+Scenario 422: Treasure found in 30 move(s) at maze 4.
+Scenario 423: Fell off cliff in 2 move(s).
+Scenario 424: Treasure found in 7 move(s) at labyrinth 1.
+Scenario 425: Treasure found in 63 move(s) at labyrinth 2.
+Scenario 426: Ogre sucked your brains out in 14 move(s) at labyrinth 10.
+Scenario 427: Treasure found in 124 move(s) at labyrinth 4.
+Scenario 428: Treasure found in 126 move(s) at labyrinth 5.
+Scenario 429: Treasure found in 126 move(s) at labyrinth 6.
+Scenario 430: Treasure found in 61 move(s) at labyrinth 7.
+Scenario 431: Treasure found in 70 move(s) at labyrinth 8.
+Scenario 432: Treasure found in 45 move(s) at labyrinth 9.
+Scenario 433: Ogre sucked your brains out in 82 move(s) at labyrinth 10.
+Scenario 434: Treasure found in 58 move(s) at labyrinth 12.
+Scenario 435: Ogre sucked your brains out in 67 move(s) at labyrinth 10.
+Scenario 436: Treasure found in 66 move(s) at labyrinth 14.
+Scenario 437: Ogre sucked your brains out in 59 move(s) at labyrinth 10.
+Scenario 438: Treasure found in 2 move(s) at path.
+Scenario 439: Fell off cliff in 2 move(s).
+Scenario 440: Treasure found in 6 move(s) at mountaintop
+Scenario 441: Ogre sucked your brains out in 22 move(s) at labyrinth 11.
+Scenario 442: Ogre sucked your brains out in 27 move(s) at labyrinth 11.
+Scenario 443: Ogre sucked your brains out in 85 move(s) at labyrinth 11.
+Scenario 444: Treasure found in 10 move(s) at maze 3.
+Scenario 445: Ogre sucked your brains out in 30 move(s) at labyrinth 11.
+Scenario 446: Treasure found in 36 move(s) at labyrinth 0.
+Scenario 447: Treasure found in 6 move(s) at labyrinth 1.
+Scenario 448: Treasure found in 9 move(s) at labyrinth 2.
+Scenario 449: Ogre sucked your brains out in 74 move(s) at labyrinth 11.
+Scenario 450: Treasure found in 56 move(s) at labyrinth 4.
+Scenario 451: Ogre sucked your brains out in 69 move(s) at labyrinth 11.
+Scenario 452: Treasure found in 58 move(s) at labyrinth 6.
+Scenario 453: Treasure found in 61 move(s) at labyrinth 7.
+Scenario 454: Treasure found in 70 move(s) at labyrinth 8.
+Scenario 455: Treasure found in 45 move(s) at labyrinth 9.
+Scenario 456: Treasure found in 82 move(s) at labyrinth 10.
+Scenario 457: Treasure found in 58 move(s) at labyrinth 12.
+Scenario 458: Ogre sucked your brains out in 86 move(s) at labyrinth 11.
+Scenario 459: Ogre sucked your brains out in 165 move(s) at labyrinth 11.
+Scenario 460: Ogre sucked your brains out in 85 move(s) at labyrinth 11.
+Scenario 461: Treasure found in 7 move(s) at path.
+Scenario 462: Fell off cliff in 2 move(s).
+Scenario 463: Treasure found in 4 move(s) at mountaintop
+Scenario 464: Ogre sucked your brains out in 26 move(s) at labyrinth 12.
+Scenario 465: Ogre sucked your brains out in 83 move(s) at labyrinth 12.
+Scenario 466: Treasure found in 13 move(s) at maze 2.
+Scenario 467: Ogre sucked your brains out in 29 move(s) at labyrinth 12.
+Scenario 468: Ogre sucked your brains out in 83 move(s) at labyrinth 12.
+Scenario 469: Treasure found in 19 move(s) at labyrinth 0.
+Scenario 470: Treasure found in 4 move(s) at labyrinth 1.
+Scenario 471: Treasure found in 63 move(s) at labyrinth 2.
+Scenario 472: Ogre sucked your brains out in 22 move(s) at labyrinth 12.
+Scenario 473: Ogre sucked your brains out in 59 move(s) at labyrinth 12.
+Scenario 474: Treasure found in 58 move(s) at labyrinth 5.
+Scenario 475: Ogre sucked your brains out in 67 move(s) at labyrinth 12.
+Scenario 476: Treasure found in 64 move(s) at labyrinth 7.
+Scenario 477: Treasure found in 47 move(s) at labyrinth 8.
+Scenario 478: Treasure found in 80 move(s) at labyrinth 9.
+Scenario 479: Ogre sucked your brains out in 59 move(s) at labyrinth 12.
+Scenario 480: Ogre sucked your brains out in 83 move(s) at labyrinth 12.
+Scenario 481: Ogre sucked your brains out in 42 move(s) at labyrinth 12.
+Scenario 482: Ogre sucked your brains out in 83 move(s) at labyrinth 12.
+Scenario 483: Ogre sucked your brains out in 42 move(s) at labyrinth 12.
+Scenario 484: Treasure found in 19 move(s) at path.
+Scenario 485: Fell off cliff in 2 move(s).
+Scenario 486: Treasure found in 5 move(s) at mountaintop
+Scenario 487: Ogre sucked your brains out in 84 move(s) at labyrinth 13.
+Scenario 488: Treasure found in 17 move(s) at maze 1.
+Scenario 489: Ogre sucked your brains out in 108 move(s) at labyrinth 13.
+Scenario 490: Treasure found in 12 move(s) at maze 3.
+Scenario 491: Ogre sucked your brains out in 113 move(s) at labyrinth 13.
+Scenario 492: Treasure found in 5 move(s) at labyrinth 0.
+Scenario 493: Treasure found in 53 move(s) at labyrinth 1.
+Scenario 494: Treasure found in 9 move(s) at labyrinth 2.
+Scenario 495: Ogre sucked your brains out in 80 move(s) at labyrinth 13.
+Scenario 496: Treasure found in 50 move(s) at labyrinth 4.
+Scenario 497: Ogre sucked your brains out in 75 move(s) at labyrinth 13.
+Scenario 498: Treasure found in 52 move(s) at labyrinth 6.
+Scenario 499: Treasure found in 61 move(s) at labyrinth 7.
+Scenario 500: Treasure found in 70 move(s) at labyrinth 8.
+Scenario 501: Treasure found in 45 move(s) at labyrinth 9.
+Scenario 502: Treasure found in 82 move(s) at labyrinth 10.
+Scenario 503: Treasure found in 59 move(s) at labyrinth 11.
+Scenario 504: Treasure found in 82 move(s) at labyrinth 12.
+Scenario 505: Ogre sucked your brains out in 49 move(s) at labyrinth 13.
+Scenario 506: Ogre sucked your brains out in 103 move(s) at labyrinth 13.
+Scenario 507: Treasure found in 3 move(s) at path.
+Scenario 508: Treasure found in 2 move(s) at fork.
+Scenario 509: Treasure found in 25 move(s) at mountaintop
+Scenario 510: Ogre sucked your brains out in 105 move(s) at labyrinth 14.
+Scenario 511: Ogre sucked your brains out in 125 move(s) at labyrinth 14.
+Scenario 512: Ogre sucked your brains out in 125 move(s) at labyrinth 14.
+Scenario 513: Ogre sucked your brains out in 125 move(s) at labyrinth 14.
+Scenario 514: Ogre sucked your brains out in 125 move(s) at labyrinth 14.
+Scenario 515: Treasure found in 42 move(s) at labyrinth 0.
+Scenario 516: Treasure found in 6 move(s) at labyrinth 1.
+Scenario 517: Treasure found in 9 move(s) at labyrinth 2.
+Scenario 518: Ogre sucked your brains out in 81 move(s) at labyrinth 14.
+Scenario 519: Treasure found in 49 move(s) at labyrinth 4.
+Scenario 520: Ogre sucked your brains out in 76 move(s) at labyrinth 14.
+Scenario 521: Treasure found in 51 move(s) at labyrinth 6.
+Scenario 522: Treasure found in 61 move(s) at labyrinth 7.
+Scenario 523: Treasure found in 70 move(s) at labyrinth 8.
+Scenario 524: Treasure found in 45 move(s) at labyrinth 9.
+Scenario 525: Treasure found in 82 move(s) at labyrinth 10.
+Scenario 526: Treasure found in 59 move(s) at labyrinth 11.
+Scenario 527: Treasure found in 82 move(s) at labyrinth 12.
+Scenario 528: Treasure found in 49 move(s) at labyrinth 13.
+Scenario 529: Ogre sucked your brains out in 113 move(s) at labyrinth 14.
+Scenario 530: Treasure found in 24 move(s) at path.
+Scenario 531: Fell off cliff in 2 move(s).
+Scenario 532: Treasure found in 5 move(s) at mountaintop
+Scenario 533: Ogre sucked your brains out in 9 move(s) at labyrinth 15.
+Scenario 534: Ogre sucked your brains out in 86 move(s) at labyrinth 15.
+Scenario 535: Ogre sucked your brains out in 125 move(s) at labyrinth 15.
+Scenario 536: Ogre sucked your brains out in 125 move(s) at labyrinth 15.
+Scenario 537: Ogre sucked your brains out in 125 move(s) at labyrinth 15.
+Scenario 538: Treasure found in 41 move(s) at labyrinth 0.
+Scenario 539: Treasure found in 6 move(s) at labyrinth 1.
+Scenario 540: Treasure found in 9 move(s) at labyrinth 2.
+Scenario 541: Ogre sucked your brains out in 5 move(s) at labyrinth 15.
+Scenario 542: Ogre sucked your brains out in 7 move(s) at labyrinth 15.
+Scenario 543: Ogre sucked your brains out in 70 move(s) at labyrinth 15.
+Scenario 544: Treasure found in 50 move(s) at labyrinth 6.
+Scenario 545: Ogre sucked your brains out in 5 move(s) at labyrinth 15.
+Scenario 546: Treasure found in 47 move(s) at labyrinth 8.
+Scenario 547: Ogre sucked your brains out in 8 move(s) at labyrinth 15.
+Scenario 548: Treasure found in 73 move(s) at labyrinth 10.
+Scenario 549: Treasure found in 59 move(s) at labyrinth 11.
+Scenario 550: Treasure found in 82 move(s) at labyrinth 12.
+Scenario 551: Treasure found in 49 move(s) at labyrinth 13.
+Scenario 552: Treasure found in 113 move(s) at labyrinth 14.

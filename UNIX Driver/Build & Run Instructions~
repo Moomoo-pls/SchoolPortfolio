@@ -1,0 +1,23 @@
+Build and run instructions
+
+1) Make sure you have the latest linux-headers and build-essential
+1a) sudo apt-get install <whatever you don't have>
+
+2) cd to wherever you unzipped the Project 4 folder.
+
+3) make
+
+4) cd modules
+
+5) sudo insmod upperReverse.ko buffer_size=<however big you want>
+
+Optional
+----------------------------
+
+6) lsmod (check the very top to make sure it installed)
+
+7) ls -l /dev/upperReverse (checks that the device driver was made)
+
+-----------------------------
+
+8) sudo ./test '<any string>'
